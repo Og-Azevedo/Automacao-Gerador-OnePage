@@ -23,7 +23,7 @@ Criar um programa que receba apenas um arquivo em excel execute todos os dias as
   - Receber uma planilha unificada em .xlsx contendo histórico de vendas de 25 lojas;
   - Gerar um arquivo no formato xlsx para cada loja e nome no formato: "DIA_MÊS_NOME DA LOJA.xlsx"
   - Criar uma pasta de backup, e em seguida uma pasta para cada loja.
-  - Salvar cada planilha em sua pasta correspondente no formato xlsx.
+  - Salvar cada planilha em sua pasta correspondente no formato xlsx;
 
  **2- Tratar dados:**
    - Verificar se cada loja bateu as metas:
